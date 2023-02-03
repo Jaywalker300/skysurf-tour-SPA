@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/skysurf-tour-SPA/static/css/main.566bd010.css",
+    "main.js": "/skysurf-tour-SPA/static/js/main.0364a52f.js",
+    "index.html": "/skysurf-tour-SPA/index.html",
+    "main.566bd010.css.map": "/skysurf-tour-SPA/static/css/main.566bd010.css.map",
+    "main.0364a52f.js.map": "/skysurf-tour-SPA/static/js/main.0364a52f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.566bd010.css",
+    "static/js/main.0364a52f.js"
+  ]
+}
